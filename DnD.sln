@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD", "DnD\DnD.csproj", "{63087EEE-0702-43C8-83F4-8DA56C7D4E43}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BA628A66-B857-4D6E-B0D4-35BEFD1E488E} = {BA628A66-B857-4D6E-B0D4-35BEFD1E488E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD_ClassLibrary", "DnD_ClassLibrary\DnD_ClassLibrary.csproj", "{BA628A66-B857-4D6E-B0D4-35BEFD1E488E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63087EEE-0702-43C8-83F4-8DA56C7D4E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63087EEE-0702-43C8-83F4-8DA56C7D4E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63087EEE-0702-43C8-83F4-8DA56C7D4E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63087EEE-0702-43C8-83F4-8DA56C7D4E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA628A66-B857-4D6E-B0D4-35BEFD1E488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA628A66-B857-4D6E-B0D4-35BEFD1E488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA628A66-B857-4D6E-B0D4-35BEFD1E488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA628A66-B857-4D6E-B0D4-35BEFD1E488E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3342E384-BA69-4356-AD96-4B320702F9DA}
+	EndGlobalSection
+EndGlobal

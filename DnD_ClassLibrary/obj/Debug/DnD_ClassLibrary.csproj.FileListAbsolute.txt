@@ -1,0 +1,15 @@
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\bin\Debug\DnD_ClassLibrary.dll
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\bin\Debug\DnD_ClassLibrary.pdb
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.csprojAssemblyReference.cache
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.csproj.CoreCompileInputs.cache
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.dll
+M:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.pdb
+E:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.csprojResolveAssemblyReference.cache
+E:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.dll
+E:\ДонНТУ\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.pdb
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\bin\Debug\DnD_ClassLibrary.dll
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\bin\Debug\DnD_ClassLibrary.pdb
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.csprojAssemblyReference.cache
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.csproj.CoreCompileInputs.cache
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.dll
+F:\DonNTU\ООП\Курсовая_к3_с1\DnD\DnD_ClassLibrary\obj\Debug\DnD_ClassLibrary.pdb
